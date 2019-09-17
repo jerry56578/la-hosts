@@ -1,8 +1,4 @@
-#配合Google hosts（https://raw.githubusercontent.com/googlehosts/hosts/master/hosts-files/hosts）使用 
-
-
-# github.com END
-
+# 配合Google hosts（https://raw.githubusercontent.com/googlehosts/hosts/master/hosts-files/hosts）使用 
 # My hosts
 104.16.181.30	forum.gamer.com.tw
 
